@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    padding: 20px;      
+}
+
+h1{
+    font-size: 60px;
+    margin-bottom: 20px;
+    color: rgb(10, 239, 181);
+    font-weight: bold;
+}
+
+body{
+    background-color: black;
+    font-family: Arial, sans-serif;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 5px solid white;
+}
+
+button{
+    padding: 10px 20px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: rgb(10, 239, 181);
+    
+    
+}
